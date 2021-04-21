@@ -1,0 +1,23 @@
+.search-container{
+    display: flex;
+    border: 1px solid grey;
+    height: 100vh;
+    color: white;
+    background: linear-gradient(transparent, rgba(40, 40, 40, 1));
+    background-color: tan;
+    overflow-y: overlay;
+}
+.sidebar-container{
+    flex: .20;
+}
+.content-container{
+    flex: .80;
+}
+.searchbar{
+  border: none;
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+
+

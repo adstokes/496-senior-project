@@ -1,0 +1,33 @@
+.song-list{
+  margin-left: 20px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+  color: white;
+}
+
+.song-list:hover {
+  cursor: pointer;
+  background-color: grey;
+  opacity: 1.0;
+  transition: 100ms transform ease-in;
+  transform: scale(1.02);
+}
+
+.song-info > h1 {
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+.song-info > p {
+  font-size: 12px;
+  margin-top: 3px;
+  margin-left: 20px;
+  color: white;
+}
+
+.song-cover {
+  height: 64px;
+  width: 64px;
+}

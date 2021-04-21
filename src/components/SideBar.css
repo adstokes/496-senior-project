@@ -1,0 +1,22 @@
+.sidebar-container{
+  height: 100vh;
+  flex: 0.15;
+  background: black;
+  border: 1px solid grey;
+  padding: 10px;
+  min-width: 230px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+
+.sidebar-container > hr {
+  border: 1px solid #282828;
+  width: 100%;
+  margin: 1px auto;
+}
+
+.playlist-sb{
+    padding: 5px;
+
+}

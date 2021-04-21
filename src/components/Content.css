@@ -1,0 +1,61 @@
+.content-container{
+      flex: 0.85;
+      padding: 10px;
+      border: 1px solid grey;
+      height: 100vh;
+      color: white;
+      padding-left: 10px;
+      padding-right: 10px;
+      background: linear-gradient(transparent, rgba(40, 40, 40, 1));
+      background-color: tan;
+      overflow-y: overlay;
+}
+
+.banner-top{
+    display: flex;
+    align-items: flex-end;
+    padding: 10px;
+
+}
+.banner-bottom > h2{
+    font-size: 35px;
+    margin-bottom: 10px;
+    margin-left:20px;
+
+}
+.banner-bottom > p{
+    font-size:14px;
+    margin-left: 35px;
+}
+
+.Image{
+    height: 15vw;
+
+       box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+}
+
+.shuffle-button {
+  font-size: 50px !important;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.song-buttons{
+  display: flex;
+  align-items: center;
+}
+
+.song-buttons > .MuiSvgIcon-root {
+  margin-right: 20px;
+}
+
+.shuffle-button:hover {
+  transition: 100ms transform ease-in;
+  transform: scale(1.30);
+  color: grey;
+}
+.songs{
+    margin: 20px;
+
+}

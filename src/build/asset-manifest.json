@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4546b451.chunk.css",
+    "main.js": "/static/js/main.f66eb12d.chunk.js",
+    "main.js.map": "/static/js/main.f66eb12d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4cd11a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4cd11a5.js.map",
+    "static/js/2.1a2ae63b.chunk.js": "/static/js/2.1a2ae63b.chunk.js",
+    "static/js/2.1a2ae63b.chunk.js.map": "/static/js/2.1a2ae63b.chunk.js.map",
+    "static/js/3.4d847ce3.chunk.js": "/static/js/3.4d847ce3.chunk.js",
+    "static/js/3.4d847ce3.chunk.js.map": "/static/js/3.4d847ce3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4546b451.chunk.css.map": "/static/css/main.4546b451.chunk.css.map",
+    "static/js/2.1a2ae63b.chunk.js.LICENSE.txt": "/static/js/2.1a2ae63b.chunk.js.LICENSE.txt",
+    "static/media/SignIn.css": "/static/media/HeadPhone.f00c2768.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4cd11a5.js",
+    "static/js/2.1a2ae63b.chunk.js",
+    "static/css/main.4546b451.chunk.css",
+    "static/js/main.f66eb12d.chunk.js"
+  ]
+}

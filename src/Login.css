@@ -19,3 +19,8 @@
 
   background-color: white;
 }
+.login-container > a:hover{
+    background: transparent;
+    color: black;
+    transition: all 0.3s ease-out;
+}

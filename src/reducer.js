@@ -13,10 +13,10 @@ const reducer = (state, action) => {
         ...state,
         user: action.user,
       };
-    case "SET_DISCOVER_WEEKLY":
+    case "SET_PLAYLISTS_ITEMS":
       return {
         ...state,
-        discover_weekly: action.discover_weekly,
+        set_playlist: action.set_playlist,
       };
 
     case "SET_TOKEN":
